@@ -59,5 +59,3 @@ The Image Processing Tool provides an interactive interface to apply various tra
     - Enter `4` to soften the image.
 4. Use `d` to display the current image at any point.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
